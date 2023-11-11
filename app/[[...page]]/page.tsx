@@ -1,6 +1,5 @@
 import { builder } from '@builder.io/sdk'
 import { RenderBuilderContent } from '@/components/builder'
-export const runtime = 'edge'
 // Replace with your Public API Key
 builder.init('8d85b5f8e1d64766a4ada51f67b8d795')
 
